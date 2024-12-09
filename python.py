@@ -365,6 +365,60 @@ You can convert from one type to another with the int(), float(), and complex() 
 # sed do eiusmod tempor incididunt
 # ut labore et dolore magna aliqua.'''
 # print(b)
+####################################################################
+# a = "Hello, World!"
+# print(a.lower())
+
+# x="my name is harry potter and iam the student of oxford university"
+# print(x.upper())
+# print(x.lower())
+
+# a = " ron weasly "
+# print(a.strip()) # returns "Hello, World!"
+
+# a = "Hello, World!"
+# print(a.replace("H", "J"))   # h replace from j as seen in program
+
+# a = "in the name of lord ram who won lanka from ayodhya"
+# print(a.replace("i", "J"))
+
+# a = "Hello, World!"
+# print(a.split(",")) # returns ['Hello', ' World!']
+
+
+# a = "Hello"
+# b = "World"
+# c = a+b
+# print(c)
+
+
+# x="ron"
+# y="harry"
+# z=(x+ " " + y)
+# print(z)
+
+# a = 'Join'
+# b = 'the'
+# c = 'party'
+# print(a+" "+b +" " +c)
+'''-------------------------------------------------'''
+
+# age = 36
+# txt = f"My name is John, I am {age}"
+# print(txt)
+
+
+# price = 59
+# txt = f"The price is {price} dollars"
+# print(txt)
+
+# amount=90
+# txt=f"this is the {amount} in inr"
+# print(txt)
+
+
+
+
 
 
 
